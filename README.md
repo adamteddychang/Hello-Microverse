@@ -1,7 +1,6 @@
 # Hello-Microverse
 
-> This is the first Microverse project. 
-It was made with two different languages and committed to different branches. 
+> In this project, I will set up a "Hello Microverse" repository. No complex coding is required for this exercise. My goal here is to master all of the tools and best practices I learned about in previous steps.
 
 
 
@@ -51,4 +50,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is not licensed.
+This project is MIT licensed.
